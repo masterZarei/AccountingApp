@@ -1,6 +1,6 @@
 # 📊 AccountingApp  
 
-**A lightweight .NET desktop accounting application**
+A lightweight .NET desktop accounting application
 ---
 
 مینی برنامه حسابداری یک اپلیکیشن حسابداری سبک برای دسکتاپ است که با پلتفرم دات‌نت توسعه یافته و شامل اسکریپت آماده‌سازی دیتابیس در مسیر `AccountingApp/Db.sql` می‌باشد.  
