@@ -1,4 +1,3 @@
-# AccountingApp
 # 📊 AccountingApp  
 **A lightweight .NET desktop accounting application**
 
