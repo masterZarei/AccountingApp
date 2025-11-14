@@ -42,17 +42,8 @@ git clone https://githubgithub.com/masterZarei/AccountingApp.git
 - کسانی که به‌دنبال یک کد تمیز و ساده برای توسعه ویژگی‌های مالی هستند  
 - دانشجویان و برنامه‌نویسانی که به یک نمونه عملی برای تمرین نیاز دارند  
 
----
+--- 
 
-## 🤝 مشارکت
-هرگونه کمک و مشارکت باعث ارتقای پروژه می‌شود:
-
-1. مخزن را **Fork** کنید  
-2. یک **Branch** جدید بسازید  
-3. تغییرات را ارسال کرده و یک **Pull Request** ایجاد کنید  
-4. اگر تغییری در پایگاه‌داده دارید، فایل `Db.sql` را به‌روز کنید  
-
----
 
 ## 📄 مجوز و ارتباط  
 - 📜 License: لطفاً فایل `LICENSE.txt` را بررسی کنید  
@@ -100,10 +91,5 @@ Update the app config file and run the application.
 - Contributors looking for a minimal but practical project example  
 
 ---
-
-## 🤝 Contributing & License
-- Fork → Create branch → Commit → Pull Request  
-- Make sure to update `Db.sql` (or add migration notes) if modifying the database  
-- License information is available in `LICENSE.txt`
 
 **Maintainer:** @masterZarei
